@@ -6,18 +6,10 @@ Pythonでセキュリティツールを作る学習記録です。
 
 - Pythonを一人で書けるようになる
 - LinuxとPythonを組み合わせる
+- バグバウンティ
+- レッドチーム
 
-## 学習記録
+## Mission
 
-### Mission001
-- ポートスキャナ作成
-- socket
-- connect()
-- send()
-- recv()
-- encode()
-- decode()
-
-### 次にやること
-- HTTPリクエストを理解する
-- DVWAへPythonからアクセスする
+- [x] Mission001
+- [ ] Mission002
