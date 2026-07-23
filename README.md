@@ -2,15 +2,14 @@ Pythonを使ってサイバーセキュリティを学習した記録です。
 
 ## 目標
 
-- Pythonを使ったセキュリティツールを作れるようになる
-- LinuxとPythonを組み合わせて自動化できるようになる
-- SOC業務で役立つ技術を身につける
+- Pythonでセキュリティツールを作れるようになる
+- LinuxとPythonを組み合わせる
+- SOCで役立つ技術を身につける
 
-## 学習内容
+## Mission
 
-- [x] Mission001 HTTP Client
-- [x] Mission002 HTTP Login
-- [x] Mission003 Directory Scanner
-- [ ] Mission004 Log Analyzer
-- [ ] Mission005 CSV Report
-- [ ] Mission006 API Automation
+- ✅ Mission001 HTTP
+- ✅ Mission002 Directory Scanner
+- ⬜ Mission003 Log Analyzer
+- ⬜ Mission004 CSV Report
+- ⬜ Mission005 API
